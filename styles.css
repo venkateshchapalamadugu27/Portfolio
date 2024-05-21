@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+#firstPara{
+    font-size: 500%;
+    text-align: center;
+    color: blue;
+    fill: aqua;
+    align-items: center;
+}
+#secPara{
+    color: brown;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: 200%;
+}
